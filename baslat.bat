@@ -1,6 +1,6 @@
 echo off
 color 0e
-title VGNUSL Baba
+title CGNUSL V1.2
 cls
 :a
 node index.js
